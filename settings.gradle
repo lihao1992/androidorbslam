@@ -1,0 +1,2 @@
+include ':ORB_SLAM2_ANDROID'
+include ':openCVLibrary249'
