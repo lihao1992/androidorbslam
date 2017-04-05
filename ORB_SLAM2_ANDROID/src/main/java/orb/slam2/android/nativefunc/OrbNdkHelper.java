@@ -2,11 +2,6 @@ package orb.slam2.android.nativefunc;
 
 import android.content.res.AssetManager;
 
-/**
- *
- * @author buptzhaofang@163.com Mar 26, 2016 8:48:13 PM
- *
- */
 public class OrbNdkHelper {
 	
 	/**
