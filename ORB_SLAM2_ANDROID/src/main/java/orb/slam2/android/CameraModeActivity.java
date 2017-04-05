@@ -13,11 +13,6 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
-/**
- *
- * @author buptzhaofang@163.com Mar 24, 2016 1:00:27 PM
- *
- */
 public class CameraModeActivity extends Activity implements OnClickListener{
 	Button ChooseCalibration,ChooseVOC,finish;
 	TextView CalibrationTxt,VOCPathText;
