@@ -30,12 +30,6 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.Toast;
 
-/**
- * ORB Test Activity For DataSetMode
- * 
- * @author buptzhaofang@163.com Mar 24, 2016 4:13:32 PM
- *
- */
 public class ORBSLAMForDataSetActivity extends Activity implements OnClickListener,
 		Renderer {
 	ImageView imgSource, imgDealed;
